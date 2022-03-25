@@ -5,4 +5,4 @@ services:
     image: pablotorradostammbio/ui-test:1.0.0
     restart: always
     ports:
-      - '3000:3000'
+      - '3000:80'
