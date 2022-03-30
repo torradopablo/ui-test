@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Version 1.0.0
+      Version 1.2.0
     </div>
   );
 }
