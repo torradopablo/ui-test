@@ -22,4 +22,4 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
           dockerfile: ./dockerfiles/dockerfile-app-web
           repository: ${{ secrets.DOCKER_REPOSITORY_ui_test }}
-          tags: 1.1.0
+          tags: 1.3.0
