@@ -2,7 +2,7 @@ version: '3.3'
 services:  
   ui-test:
     container_name: ui-test
-    image: pablotorradostammbio/ui-test:1.3.0
+    image: pablotorradostammbio/ui-test:1.4.0
     restart: always
     ports:
       - '3000:80'
